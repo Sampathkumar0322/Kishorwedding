@@ -95,7 +95,13 @@ button, a.btn { font-family: inherit; cursor: pointer; border: none; background:
 }
 
 /* Text scales with the page width so it always stays inside the art */
-.ov-eyebrow { font-size: clamp(8px, 2.2vw, 10.5px); letter-spacing: 1.4px; text-transform: uppercase; color: var(--marigold-deep); }
+.ov-eyebrow {
+    font-size: clamp(9px, 2.5vw, 12px);
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: var(--marigold-deep);
+}
 .ov-title { font-family: var(--font-display); font-size: clamp(15px, 4.4vw, 20px); font-weight: 500; color: var(--maroon); margin-top: 5px; }
 .ov-names { font-family: var(--font-display); font-weight: 700; font-size: clamp(26px, 8vw, 38px); color: var(--maroon-deep); margin-top: 3px; line-height: 1.15; }
 .ov-names .amp { font-family: var(--font-script); color: var(--gold-dim); font-size: 0.6em; margin: 0 4px; }
