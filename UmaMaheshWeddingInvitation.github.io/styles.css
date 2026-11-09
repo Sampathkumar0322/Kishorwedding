@@ -97,8 +97,8 @@ button, a.btn { font-family: inherit; cursor: pointer; border: none; background:
 /* Text scales with the page width so it always stays inside the art */
 .ov-eyebrow {
     font-size: clamp(9px, 2.5vw, 12px);
-    font-weight: 700;
-    letter-spacing: 1.4px;
+    font-weight: 800;
+    letter-spacing: 0.4px;
     text-transform: uppercase;
     color: var(--marigold-deep);
 }
