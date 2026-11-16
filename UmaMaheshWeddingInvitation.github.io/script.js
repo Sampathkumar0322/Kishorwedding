@@ -12,7 +12,7 @@ const CONFIG = {
     address: "4th Floor, Patney Center, beside Yashoda Hospital, Secunderabad",
     mapQuery: "Urvasi Royal Grand Banquet Hall, Patney Center, Secunderabad"
   },
-  welcomeNote: "We solicit your gracious presence with family and friends to bless Sai Kishor Reddy and Prasuna on the auspicious occasion of their wedding."
+  welcomeNote: "Love brought them together, and your blessings will make their day complete. Please join us with your family and friends to celebrate the wedding ."
 };
 
 /* ============================================================
