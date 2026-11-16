@@ -2,7 +2,7 @@
    EDIT THIS CONFIG — all content lives here.
    ============================================================ */
 const CONFIG = {
-  groom: { name: "Sai Kishor Reddy", parents: "Second son of Smt. & Sri Govu Aruna & Venkat Reddy" },
+  groom: { name: "Kishor Reddy", parents: "Second son of Smt. & Sri Govu Aruna & Venkat Reddy" },
   bride: { name: "Prasuna", parents: "Younger daughter of Smt. & Sri Ramanchi Aruna & Srinivas" },
   muhurthamISO: "2026-11-22T09:51:00+05:30",
   saveTheDate: "22 . 11 . 2026",
